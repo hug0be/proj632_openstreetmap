@@ -1,0 +1,185 @@
+[
+    {
+        "place_id": 297714218,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 148838,
+        "boundingbox": [
+            "-14.7608358",
+            "71.5889534",
+            "-180",
+            "180"
+        ],
+        "lat": "39.7837304",
+        "lon": "-100.445882",
+        "display_name": "United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.1356913674575888,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 268465169,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 844908165,
+        "boundingbox": [
+            "14.4831603",
+            "14.4853317",
+            "121.021918",
+            "121.022243"
+        ],
+        "lat": "14.4840579",
+        "lon": "121.0220326",
+        "display_name": "United States, Chateau Ville, Don Bosco, Para\u00f1aque, Southern Manila District, Metro Manila, 1700, Philippines",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 111987766,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 27423181,
+        "boundingbox": [
+            "14.4853317",
+            "14.4882614",
+            "121.0206731",
+            "121.022082"
+        ],
+        "lat": "14.4866914",
+        "lon": "121.0214161",
+        "display_name": "United States, Eastern 7 Village, Para\u00f1aque, Southern Manila District, Metro Manila, 1700, Philippines",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 276096025,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 901057271,
+        "boundingbox": [
+            "14.4829411",
+            "14.4831603",
+            "121.0218903",
+            "121.021918"
+        ],
+        "lat": "14.4829411",
+        "lon": "121.0218903",
+        "display_name": "United States, Better Living, Don Bosco, Para\u00f1aque, Southern Manila District, Metro Manila, 1700, Philippines",
+        "class": "highway",
+        "type": "service",
+        "importance": 0.2750099999999999
+    },
+    {
+        "place_id": 278036568,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 922445614,
+        "boundingbox": [
+            "29.4141338",
+            "29.4143388",
+            "-98.4932698",
+            "-98.4930092"
+        ],
+        "lat": "29.41423015",
+        "lon": "-98.49313841686194",
+        "display_name": "326 King William, San Antonio, TX 78204, United States, King William Street, King William, San Antonio, Bexar County, Texas, 78204, United States",
+        "class": "tourism",
+        "type": "guest_house",
+        "importance": 0.2001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_bed_and_breakfast.p.20.png"
+    },
+    {
+        "place_id": 87569278,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8603594556,
+        "boundingbox": [
+            "34.6737285",
+            "34.6738285",
+            "-118.1471981",
+            "-118.1470981"
+        ],
+        "lat": "34.6737785",
+        "lon": "-118.1471481",
+        "display_name": "Rocket Fizz, 43530 Tenth St W, Unit 105, Lancaster, CA 93534, United States, 10th Street West, Lancaster, Los Angeles County, California, 93534, United States",
+        "class": "place",
+        "type": "house",
+        "importance": 0.2001
+    },
+    {
+        "place_id": 58449756,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 5275496611,
+        "boundingbox": [
+            "39.456393",
+            "39.456493",
+            "-77.9663507",
+            "-77.9662507"
+        ],
+        "lat": "39.456443",
+        "lon": "-77.9663007",
+        "display_name": "Marshals Service, United States (Branch Location), 217, West King Street, Irish Hill, Martinsburg, Berkeley County, West Virginia, 25401, United States",
+        "class": "office",
+        "type": "government",
+        "importance": 0.2001
+    },
+    {
+        "place_id": 92558699,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 8954222599,
+        "boundingbox": [
+            "46.6302437",
+            "46.6303437",
+            "-119.6474269",
+            "-119.6473269"
+        ],
+        "lat": "46.6302937",
+        "lon": "-119.6473769",
+        "display_name": "Washington 99354, United States, Route 1, Benton County, Washington, 99354, United States",
+        "class": "place",
+        "type": "house",
+        "importance": 0.2001
+    },
+    {
+        "place_id": 22169932,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2452907504,
+        "boundingbox": [
+            "41.1090783",
+            "41.1091783",
+            "-98.0141505",
+            "-98.0140505"
+        ],
+        "lat": "41.1091283",
+        "lon": "-98.0141005",
+        "display_name": "68826, Central City, NE, United States, 1202, G Street, Central City, Merrick County, Nebraska, 68826, United States",
+        "class": "amenity",
+        "type": "fast_food",
+        "importance": 0.2001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_fastfood.p.20.png"
+    },
+    {
+        "place_id": 168526747,
+        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 250575475,
+        "boundingbox": [
+            "40.7369018",
+            "40.737504",
+            "-73.8627533",
+            "-73.8622349"
+        ],
+        "lat": "40.7372329",
+        "lon": "-73.86247702352559",
+        "display_name": "United States, 97-30, 57th Avenue, Queens, City of New York, New York, 11368, United States",
+        "class": "building",
+        "type": "apartments",
+        "importance": 0.20000999999999997
+    }
+]
